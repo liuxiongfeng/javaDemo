@@ -8,6 +8,7 @@ package quartz;
 public class AndMM {
     public static void main(String[] args) {
         System.out.println("dfdf");
+        System.out.println("sdsdss");
     }
 
    /* public static String ff(String... columns){
