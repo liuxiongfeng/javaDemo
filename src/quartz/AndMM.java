@@ -7,7 +7,7 @@ package quartz;
  */
 public class AndMM {
     public static void main(String[] args) {
-
+        System.out.println("dfdf");
     }
 
    /* public static String ff(String... columns){
