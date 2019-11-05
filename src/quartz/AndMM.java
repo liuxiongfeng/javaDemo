@@ -9,6 +9,7 @@ public class AndMM {
     public static void main(String[] args) {
         System.out.println("dfdf");
         System.out.println("sdsdss");
+        System.out.println("sdsdsdww3");
     }
 
    /* public static String ff(String... columns){
